@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,4,5,30&height=270&section=header&animation=twinkling&text=shio%20(ag2cry)&fontSize=70&fontAlignY=40&fontColor=white" width="100%" alt="shio (ag2cry)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,3,3,3,30&height=270&section=header&animation=twinkling&text=shio%20(ag2cry)&fontSize=70&fontAlignY=40&fontColor=white" width="100%" alt="shio (ag2cry)" />
 </p>
 
 <p align="center">
@@ -102,5 +102,5 @@ Selected tools developed to solve daily friction. Click to view concepts.
 - **Personality:** INTP-T
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2,1,30&height=120&section=footer&animation=twinkling" />
 </div>
